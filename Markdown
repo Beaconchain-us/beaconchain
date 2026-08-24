@@ -5,45 +5,33 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub stars](https://img.shields.io/github/stars/beaconchain-horizon/Beaconchain)](https://github.com/beaconchain-horizon/Beaconchain/stargazers)
 [![Website](https://img.shields.io/badge/Website-beaconchain.us-4f9eff.svg)](https://beaconchain.us)
-[![Telegram](https://img.shields.io/badge/Telegram-@Beaconchain_horizon-0088cc.svg)](https://t.me/Beaconchain_horizon)
 
 ---
 
 ## 🌟 About This Repository
 
-**Beaconchain** is the official brand and identity of the Horizon ecosystem.  
+**Beaconchain** is the official brand and identity of the **Horizon ecosystem**.  
 This repository serves as the **central gateway and documentation hub** for all Horizon products and services.
 
-**Horizon** is the product line of Beaconchain, including:
+**Horizon** is the product line of Beaconchain, which includes:
 
-- **Horizon Core Engine** – Backend and blockchain monitoring
-- **Horizon Store** – Official marketplace for licenses and services
-- **Horizon Hub** – Pricing and documentation
-- **Horizon Dashboard** – Validator monitoring
-
----
-
-## 🏆 Achievements
-
-| Achievement | Status |
-|-------------|--------|
-| **Security Score** | 🛡️ 10/10 – Perfect |
-| **Validator Support** | ⚡ 100,000+ validators simultaneously |
-| **Response Time** | 🚀 72ms average query time |
-| **License** | 📜 GPL-3.0 with additional terms |
+- **Horizon Core Engine** – Backend, security, and blockchain monitoring.
+- **Horizon Store** – Official marketplace for licenses and digital goods.
+- **Horizon Hub** – Pricing and documentation hub.
+- **Horizon Dashboard** – Validator monitoring interface.
 
 ---
 
 ## 🧠 What is Beaconchain Horizon?
 
 **Beaconchain** is an **open-source, offline-first blockchain monitoring platform**.  
-**Horizon** is the product suite built on this platform, featuring:
+**Horizon** is the product suite built on top of this platform, utilizing:
 
-- **Go** – Backend API
-- **SQLite / PostgreSQL** – Database
-- **Merkle Trees** – License generation and verification
-- **ECDSA** – Digital signatures for license integrity
-- **Gin** – Web framework
+- **Go (Golang)** – Backend API server.
+- **SQLite / PostgreSQL** – Persistent data storage.
+- **Merkle Trees** – License generation and verification.
+- **ECDSA** – Digital signatures for license integrity.
+- **Gin** – Web framework for RESTful APIs.
 
 ---
 
@@ -51,28 +39,30 @@ This repository serves as the **central gateway and documentation hub** for all 
 
 | Repository | Role |
 |------------|------|
-| **[horizon-core-engine](https://github.com/beaconchain-horizon/horizon-core-engine)** | The brain – backend, Merkle, security, blockchain watcher |
-| **[Beaconchain.us](https://github.com/beaconchain-horizon/Beaconchain.us)** | Official store – marketplace for licenses and services |
-| **[hub](https://github.com/beaconchain-horizon/hub)** | Pricing and documentation hub |
-| **[beaconcha.in](https://github.com/beaconchain-horizon/beaconcha.in)** | Validator dashboard – live data from Ethereum |
-| **[gobitfly](https://github.com/beaconchain-horizon/gobitfly)** | Shared libraries and utilities |
+| **[horizon-core-engine](https://github.com/beaconchain-horizon/horizon-core-engine)** | Backend API, Merkle Tree logic, security, and blockchain watcher. |
+| **[Beaconchain.us](https://github.com/beaconchain-horizon/Beaconchain.us)** | Official store – marketplace for licenses and services. |
+| **[hub](https://github.com/beaconchain-horizon/hub)** | Pricing and documentation hub. |
+| **[beaconcha.in](https://github.com/beaconchain-horizon/beaconcha.in)** | Validator dashboard – live data from Ethereum. |
+| **[gobitfly](https://github.com/beaconchain-horizon/gobitfly)** | Shared libraries and internal utilities. |
 
 ---
 
 ## 🚀 Key Features (Horizon Products)
 
-- ✅ **Merkle‑Verified Licenses** – Tamper‑proof, offline‑capable
-- ✅ **ECDSA Digital Signatures** – Authenticity and integrity
-- ✅ **Direct Crypto Payments** – Sanction‑resistant, no intermediaries
-- ✅ **Offline‑First Architecture** – Works without internet
-- ✅ **PWA Support** – Installable on mobile and desktop
-- ✅ **Security 10/10** – CSP, XSS protection, GDPR compliant
-- ✅ **100,000+ Validators** – Real‑time monitoring
-- ✅ **72ms Response Time** – Industry‑leading performance
+- ✅ **Merkle-Verified Licenses** – Tamper-proof and offline-capable validation.
+- ✅ **ECDSA Digital Signatures** – Ensures authenticity and data integrity.
+- ✅ **Direct Crypto Payments** – No intermediaries, direct settlement.
+- ✅ **Offline-First Architecture** – Designed to work without constant internet access.
+- ✅ **PWA Support** – Installable on both mobile and desktop devices.
+- ✅ **Security-Focused Design** – Emphasis on CSP (Content Security Policy), XSS protection, and privacy-by-design principles.
+- ✅ **Scalable Architecture** – Designed to accommodate large datasets and validator counts.
+- ✅ **Real-Time Monitoring** – Tracks network health and validator performance.
 
 ---
 
 ## 🛠️ Quick Start
+
+Clone the repository and open `index.html` in your browser:
 
 ```bash
 # Clone the repository

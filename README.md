@@ -23,18 +23,6 @@ This repository serves as the **central gateway and documentation hub** for all 
 
 ---
 
-## 🏆 Global Recognition
-
-| Achievement | Status |
-|-------------|--------|
-| **World Rank** | 🥉 #3 among blockchain explorers (May 2026) |
-| **Security Score** | 🛡️ 10/10 – Perfect |
-| **Validator Support** | ⚡ 100,000+ validators simultaneously |
-| **Response Time** | 🚀 72ms average query time |
-| **License** | 📜 GPL-3.0 with additional terms |
-
----
-
 ## 🧠 What is Beaconchain Horizon?
 
 **Beaconchain** is an **open-source, offline-first blockchain monitoring platform**.  
@@ -52,7 +40,7 @@ This repository serves as the **central gateway and documentation hub** for all 
 
 | Repository | Role |
 |------------|------|
-| **[horizon-core-engine](https://github.com/beaconchain-horizon/horizon-core-engine)** | The brain – backend, Merkle, security, blockchain watcher |
+| **[horizon-core-engine](https://github.com/beaconchain-horizon/horizon-core-engine)** | Backend, Merkle, security, blockchain watcher |
 | **[Beaconchain.us](https://github.com/beaconchain-horizon/Beaconchain.us)** | Official store – marketplace for licenses and services |
 | **[hub](https://github.com/beaconchain-horizon/hub)** | Pricing and documentation hub |
 | **[beaconcha.in](https://github.com/beaconchain-horizon/beaconcha.in)** | Validator dashboard – live data from Ethereum |
@@ -64,12 +52,12 @@ This repository serves as the **central gateway and documentation hub** for all 
 
 - ✅ **Merkle‑Verified Licenses** – Tamper‑proof, offline‑capable
 - ✅ **ECDSA Digital Signatures** – Authenticity and integrity
-- ✅ **Direct Crypto Payments** – Sanction‑resistant, no intermediaries
+- ✅ **Direct Crypto Payments** – No intermediaries
 - ✅ **Offline‑First Architecture** – Works without internet
 - ✅ **PWA Support** – Installable on mobile and desktop
-- ✅ **Security 10/10** – CSP, XSS protection, GDPR compliant
-- ✅ **100,000+ Validators** – Real‑time monitoring
-- ✅ **72ms Response Time** – Industry‑leading performance
+- ✅ **Security‑Focused Design** – CSP, XSS protection, privacy by design
+- ✅ **Scalable Architecture** – Designed to handle large validator sets
+- ✅ **Real‑Time Monitoring** – Tracks network and validator status
 
 ---
 
